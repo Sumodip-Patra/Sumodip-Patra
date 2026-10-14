@@ -12,6 +12,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sumodip-Patra&icon=8&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Sumodip-Patra)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
