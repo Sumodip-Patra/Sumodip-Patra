@@ -12,7 +12,7 @@
   <img src="https://www.gitskins.com/api/section/wordmark?username=sumodip-patra&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236056892%3Fu%3Dc44756527c20dd79b05c7dcc5b338aba5e9bd25d%26v%3D4&label=Sumodip%20Patra&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Sumodip Patra animated ASCII name" />
 </picture>
 
-<p><strong>Frontend or full-stack engineer</strong> · Nagpur</p>
+<p><strong>I am the one who uses AI, AI agents to automate the complex tasks</strong> · Nagpur</p>
 <p>A Learner and a person with no superpowers.</p>
 
 <p><a href="https://github.com/sumodip-patra">GitHub</a></p>
